@@ -58,14 +58,17 @@
 
 ### 1. Back-end
  
-> Eclipse </br>
-> MySQL
+> Eclipse   
+> Oracle   
+> Apache Tomcat
 
 ### 2. Front-end
 
 > BootStrap  
 > html </br>
 > jsp
+> jQuery
+
 
 <br />
 
