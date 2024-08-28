@@ -50,13 +50,13 @@
 
 ### 1. Back-end
  
-> Eclipse 
+> Eclipse </br>
 > MySQL
 
 ### 2. Front-end
 
 > BootStrap  
-> html
+> html </br>
 > jsp
 
 <br />
