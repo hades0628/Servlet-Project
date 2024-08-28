@@ -35,29 +35,29 @@
 
 > |                    Name                    |  Position   |
 > | :----------------------------------------: | :---------: |
-> | [김혁](https://github.com/hades0628) | Back |
-> |   [임재현]    |    Back, Front     |
+> | [김혁](https://github.com/hades0628) | Back, Front |
+> |     [조현서]    |    Front    |
 > |     [이민석]    |    Back     |
 
 
 ### 3. 역할 분담
 
-> - 김혁 : 쇼핑몰 메인페이지 + 회원관리 구성
+> - 김혁 : 쇼핑몰 페이지 전체 + 회원관리 구성 + 결제페이지
 
 <br />
 
 # 📚 사용 기술
 
 ### 1. Back-end
-
-> Spring Boot(Java)  
-> IntelliJ 
+ 
+> Eclipse 
 > MySQL
 
 ### 2. Front-end
 
 > BootStrap  
 > html
+> jsp
 
 <br />
 
