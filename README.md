@@ -29,7 +29,7 @@
 
 ### 1. 제작기간
 
-![image](https://github.com/user-attachments/assets/310f8266-f7b0-4587-a1c3-b339a81146b3)
+![image](https://github.com/user-attachments/assets/310f8266-f7b0-4587-a1c3-b339a81146b3){: width="100" height="100"}
 
 ### 2. 참여 인원
 
