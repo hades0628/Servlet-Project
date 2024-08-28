@@ -19,7 +19,7 @@
           </div>
     </div>
     
-# 🛫 Shopping Mall(Spring Boot JPA)
+# 🛫 Shopping Mall(Servlet + JSP)
 
 
 
@@ -29,7 +29,7 @@
 
 ### 1. 제작기간
 
-> 2024.06.24 ~ 07.05
+![image](https://github.com/user-attachments/assets/310f8266-f7b0-4587-a1c3-b339a81146b3)
 
 ### 2. 참여 인원
 
@@ -45,6 +45,13 @@
 > - 김혁 : 쇼핑몰 페이지 전체 + 회원관리 구성 + 결제페이지
 
 <br />
+
+### ⚙️ 개발 환경
+- `Java 11`
+- `JDK 5.2.7`
+- **Framework** : Eclipse
+- **Database** : Oracle
+- **ORM** : Mybatis
 
 # 📚 사용 기술
 
