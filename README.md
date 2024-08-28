@@ -64,50 +64,55 @@
 
 # 📕 프로젝트 소개
 
+### ●&nbsp;    UML
+
+![image1](https://github.com/user-attachments/assets/b1476099-f13e-478c-8020-328711e32911)
+
+
 ### ●&nbsp;    ERD
 
-![erdd](https://github.com/user-attachments/assets/b022d4da-a86b-4b99-9672-c828ce435603)
+관리자
+![image3](https://github.com/user-attachments/assets/a0470163-4664-4b25-a237-dcd991af2d35)
+
+일반회원
+![image2](https://github.com/user-attachments/assets/7a8ac07b-ece5-43c9-ac79-86e19ed58130)
+
+### 1. 회원가입
+
+
+https://github.com/user-attachments/assets/a8e8f223-be61-4d90-ac3d-413b365cf1eb
 
 
 
+### 2. 상품 리스트, 상품 상세
 
-### 1. 메인화면
 
-![image](https://github.com/user-attachments/assets/8c32b727-52a8-4fef-bbbe-b74da95daa69)
+https://github.com/user-attachments/assets/b945e028-b3aa-4811-9f51-a34fb39a5d04
 
-### 2. 카카오 로그인
 
-![image](https://github.com/user-attachments/assets/f9cc6fa1-75c6-46cb-86db-1a2d5367de23)
 
-### 3. 회원가입
+### 3. 리뷰, Q&A
 
-![image](https://github.com/user-attachments/assets/3ac34af6-6ecb-4910-bccc-bc07ae9aae75)
-<br>
-![image](https://github.com/user-attachments/assets/26ea28a4-4d4c-4425-a8e2-1103f3e84503)
 
-### 4. 관리자 상품 등록
 
-![image](https://github.com/user-attachments/assets/2c686542-ce21-46b1-99a0-dc108a57ed88)
+https://github.com/user-attachments/assets/56142ae2-7da0-45fb-bee1-44e25bba818b
 
-### 5. 상품 정보
 
-![image](https://github.com/user-attachments/assets/8f994960-3b8c-4585-bea9-c2e76353a043)
+### 4. 장바구니. 결제
 
-### 6. 상품 주문 및 장바구니
 
-![image](https://github.com/user-attachments/assets/acec0ade-2ab5-4812-a81f-4b389ac97813)
-<br>
-![image](https://github.com/user-attachments/assets/90fad883-3dcb-4424-8eb7-e69917acb66e)
 
-### 7. 주문 및 결제
+https://github.com/user-attachments/assets/54d5b806-44c2-4083-9ff7-98c90f4027d7
 
-![image](https://github.com/user-attachments/assets/833a1ea1-eebf-4ac6-8901-bac36e06db34)
 
-### 8. 개인 정보 및 변경
+### 프로젝트 후기
+이번 JSP와 서블릿을 활용한 쇼핑몰 프로젝트는 재미있고 동시에 어려운 경험이었습니다. 
+작은 프로그램이라도 개발하는 데 많은 시간과 노력이 필요하다는 것을 깨달았습니다. 
+학원에서 새로운 기술을 배운 뒤 프로젝트를 직접 만들고 적용하는 과정은 특히 흥미로웠습니다. 
 
-![image](https://github.com/user-attachments/assets/81ae23d1-f23d-4300-b739-9e86688f7ca2)
-<br>
-![image](https://github.com/user-attachments/assets/c7214806-8b75-4315-baa2-0a6edf72dbb1)
-<br>
-![image](https://github.com/user-attachments/assets/8ed0719c-8c56-49c2-9e30-ebfe90a965b2)
+다음 프로젝트에서는 현재의 쇼핑몰을 보완하고 더 많은 기능을 추가하고자 합니다. 
+사용자 경험을 향상시키고 보안을 강화하는 등의 목표를 가지고 있습니다. 
+이번 경험을 통해 많은 것을 배우고 다음 프로젝트에서는 더 발전된 결과물을 만들고 싶습니다. 
+새로운 도전과 어려움이 있겠지만, 그 과정에서 성장할 수 있을 것으로 기대합니다.
+![image](https://github.com/user-attachments/assets/a029f2d0-aea8-4714-b315-84d28e8a921e)
 
